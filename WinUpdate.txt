@@ -7,6 +7,7 @@ stats.microsoft.com
 dl.delivery.mp.microsoft.com
 fe2.update.microsoft.com
 ctldl.windowsupdate.com
+sls.update.microsoft.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
