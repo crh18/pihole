@@ -8,6 +8,7 @@
 ^stats\.microsoft\.com$
 ^a-\d*\.a-msedge\.net$
 ^cs\d*\.wpc\.v0cdn\.net$
+dmd.metaservices.microsoft.com
 msftncsi.com
 applednld.apple.com
 mesu.apple.com
@@ -175,3 +176,10 @@ eu.vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
 geo.vortex.data.microsoft.com.akadns.net
+next-services.apps.microsoft.com
+next-services.windows.akadns.net
+americas1.notify.windows.com.akadns.net
+skydrive.wns.windows.com
+client.wns.windows.com
+activity.windows.com
+global.activity.windows.com.akadns.net
