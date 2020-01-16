@@ -10,8 +10,6 @@
 ^cs\d*\.wpc\.v0cdn\.net$
 dmd.metaservices.microsoft.com
 msftncsi.com
-applednld.apple.com
-mesu.apple.com
 geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 update.microsoft.com
@@ -183,3 +181,4 @@ skydrive.wns.windows.com
 client.wns.windows.com
 activity.windows.com
 global.activity.windows.com.akadns.net
+v10.events.data.microsoft.com
