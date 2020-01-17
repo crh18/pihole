@@ -184,3 +184,5 @@ client.wns.windows.com
 activity.windows.com
 global.activity.windows.com.akadns.net
 v10.events.data.microsoft.com
+auto.au.download.windowsupdate.com.c.footprint.net
+au.download.windowsupdate.com
