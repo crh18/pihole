@@ -186,3 +186,6 @@ global.activity.windows.com.akadns.net
 v10.events.data.microsoft.com
 auto.au.download.windowsupdate.com.c.footprint.net
 au.download.windowsupdate.com
+tlu.dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com-c.edgesuite.net
+slscr.update.microsoft.com
