@@ -1,5 +1,6 @@
 api-global.geo.netflix.com
 api-global.netflix.com
+android.prod.ftl.netflix.com
 appboot.geo.netflix.com
 appboot.netflix.com
 customerevents.geo.netflix.com
@@ -23,3 +24,6 @@ secure.netflix.com
 uiboot.geo.netflix.com
 anycast.ftl.netflix.com
 netflix.com
+codex.nflxext.com
+assets.nflxext.com
+media.netflix.com
