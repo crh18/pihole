@@ -16,6 +16,7 @@ update.microsoft.com
 download.windowsupdate.com
 windowsupdate.com
 wustat.windows.com
+definitionupdates.microsoft.com
 ntservicepack.microsoft.com
 stats.microsoft.com
 dl.delivery.mp.microsoft.com
